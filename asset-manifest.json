@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Continuumcare/static/css/main.41fdb4ac.css",
-    "main.js": "/Continuumcare/static/js/main.5d49722d.js",
+    "main.js": "/Continuumcare/static/js/main.d48dcfa0.js",
     "index.html": "/Continuumcare/index.html",
     "main.41fdb4ac.css.map": "/Continuumcare/static/css/main.41fdb4ac.css.map",
-    "main.5d49722d.js.map": "/Continuumcare/static/js/main.5d49722d.js.map"
+    "main.d48dcfa0.js.map": "/Continuumcare/static/js/main.d48dcfa0.js.map"
   },
   "entrypoints": [
     "static/css/main.41fdb4ac.css",
-    "static/js/main.5d49722d.js"
+    "static/js/main.d48dcfa0.js"
   ]
 }
