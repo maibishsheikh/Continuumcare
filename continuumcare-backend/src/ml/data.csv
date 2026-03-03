@@ -1,0 +1,7 @@
+systolic,diastolic,heartRate,spo2,medicationTaken,fever,dizziness,fatigue,breathlessness,chestPain,risk
+120,80,72,98,1,0,0,0,0,0,0
+145,95,88,95,1,0,1,0,0,0,1
+160,100,92,93,0,0,1,1,0,0,1
+180,110,100,90,0,1,1,1,1,0,2
+130,85,75,97,1,0,0,0,0,0,0
+170,105,98,92,0,1,1,1,1,1,2
